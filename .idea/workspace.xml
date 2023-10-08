@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2033738f-e74a-4f88-8e86-5f01d39ba808" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="2033738f-e74a-4f88-8e86-5f01d39ba808" name="Changes" comment="Code 6th Oct">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/utils/GlobalParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/GlobalParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/runners/MyRunnerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/runners/MyRunnerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/stepdef/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/stepdef/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/stepdef/LoginStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/stepdef/LoginStepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/stepdef/ProductsStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/stepdef/ProductsStepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Products.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Products.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +93,21 @@
       <option name="presentableId" value="Default" />
       <updated>1696585313492</updated>
     </task>
+    <task id="LOCAL-00001" summary="Code 6th Oct">
+      <created>1696602360166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696602360166</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Code 6th Oct">
+      <created>1696602379546</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696602379547</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code 6th Oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code 6th Oct" />
   </component>
 </project>

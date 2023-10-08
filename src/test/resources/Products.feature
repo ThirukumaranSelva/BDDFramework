@@ -10,8 +10,15 @@ Feature:Products Details Screen
   Scenario Outline: Verify product detailed information
     Given User logged in successfully
     When User clicks on product name "<productName>"
-    Then User landed to product Detailed view page
-    * verify product title "<productTitle>" and verify product description "<productDescription>"
+    Then verify product title "<productTitle>" and verify product description "<productDescription>"
     Examples:
-      | productName         | productTitle | productDescription                                                                                                                     |
-      | Sauce Labs Backpack | $29.99       | carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection. |
+      | productName         | productTitle        | productDescription                                                                                                                     |
+      | Sauce Labs Backpack | Sauce Labs Backpack | carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection. |
+
+  Scenario Outline: Scroll down and check the price
+    Given User logged in successfully
+    When User scrolls the page
+    Then verify the price "<price>"
+    Examples:
+      | price  |
+      | $29.99 |

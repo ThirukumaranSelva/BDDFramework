@@ -5,73 +5,93 @@ public class GlobalParams {
     /* Global Parameters
      platformName, udid, deviceName, systemPort,chromeDriverPort, wdaLocalPort, webkitDebugProxyPort
      */
-    private static ThreadLocal<String> platformName = new ThreadLocal<>();
-    private static ThreadLocal<String> udid = new ThreadLocal<>();
-    private static ThreadLocal<String> deviceName = new ThreadLocal<>();
-    private static ThreadLocal<String> systemPort = new ThreadLocal<>();
-    private static ThreadLocal<String> chromeDriverPort = new ThreadLocal<>();
-    private static ThreadLocal<String> wdaLocalPort = new ThreadLocal<>();
-    private static ThreadLocal<String> webkitDebugProxyPort = new ThreadLocal<>();
+    private static final ThreadLocal<String> platformName = new ThreadLocal<>();
+    private static final ThreadLocal<String> udid = new ThreadLocal<>();
+    private static final ThreadLocal<String> deviceName = new ThreadLocal<>();
+    private static final ThreadLocal<String> systemPort = new ThreadLocal<>();
+    private static final ThreadLocal<String> chromeDriverPort = new ThreadLocal<>();
+    private static final ThreadLocal<String> wdaLocalPort = new ThreadLocal<>();
+    private static final ThreadLocal<String> webkitDebugProxyPort = new ThreadLocal<>();
 
-    public static void setPlatformName(ThreadLocal<String> platformName) {
-        GlobalParams.platformName = platformName;
+    public void setPlatformName(String platformName1) {
+        platformName.set(platformName1);
     }
 
-    public static ThreadLocal<String> getPlatformName() {
-        return platformName;
+    public String getPlatformName() {
+        return platformName.get();
     }
 
-    public static void setUdid(ThreadLocal<String> udid) {
-        GlobalParams.udid = udid;
+    public void setUdid(String udid1) {
+        udid.set(udid1);
     }
 
-    public static ThreadLocal<String> getUdid() {
-        return udid;
+    public String getUdid() {
+        return udid.get();
     }
 
-    public static void setSystemPort(ThreadLocal<String> systemPort) {
-        GlobalParams.systemPort = systemPort;
+    public void setSystemPort(String systemPort1) {
+        systemPort.set(systemPort1);
     }
 
-    public static ThreadLocal<String> getSystemPort() {
-        return systemPort;
-    }
-
-
-    public static void setChromeDriverPort(ThreadLocal<String> chromeDriverPort) {
-        GlobalParams.chromeDriverPort = chromeDriverPort;
-    }
-
-    public static ThreadLocal<String> getChromeDriverPort() {
-        return chromeDriverPort;
+    public String getSystemPort() {
+        return systemPort.get();
     }
 
 
-    public static void setWdaLocalPort(ThreadLocal<String> wdaLocalPort) {
-        GlobalParams.wdaLocalPort = wdaLocalPort;
+    public void setChromeDriverPort(String chromeDriverPort1) {
+        chromeDriverPort.set(chromeDriverPort1);
     }
 
-    public static ThreadLocal<String> getWdaLocalPort() {
-        return wdaLocalPort;
-    }
-
-
-    public static void setWebkitDebugProxyPort(ThreadLocal<String> webkitDebugProxyPort) {
-        GlobalParams.webkitDebugProxyPort = webkitDebugProxyPort;
-    }
-
-    public static ThreadLocal<String> getWebkitDebugProxyPort() {
-        return webkitDebugProxyPort;
+    public String getChromeDriverPort() {
+        return chromeDriverPort.get();
     }
 
 
-    public static ThreadLocal<String> getDeviceName() {
-        return deviceName;
+    public void setWdaLocalPort(String wdaLocalPort1) {
+        wdaLocalPort.set(wdaLocalPort1);
     }
 
-    public static void setDeviceName(ThreadLocal<String> deviceName) {
-        GlobalParams.deviceName = deviceName;
+    public String getWdaLocalPort() {
+        return wdaLocalPort.get();
     }
 
+
+    public void setWebkitDebugProxyPort(String webkitDebugProxyPort1) {
+        webkitDebugProxyPort.set(webkitDebugProxyPort1);
+    }
+
+    public String getWebkitDebugProxyPort() {
+        return webkitDebugProxyPort.get();
+    }
+
+    public void setDeviceName(String deviceName1) {
+        deviceName.set(deviceName1);
+    }
+    public String getDeviceName() {
+        return deviceName.get();
+    }
+
+
+    public void initializeGlobalParams() {
+
+        setPlatformName(System.getProperty("platformName","Android"));
+        setUdid(System.getProperty("udid","ce10171ab374340704"));
+        setDeviceName(System.getProperty("deviceName","Samsung Galaxy S8+"));
+
+        switch (getPlatformName()){
+            case "Android"->{
+                setSystemPort(System.getProperty("systemPort","10000"));
+                setChromeDriverPort(System.getProperty("chromeDriverPort","11000"));
+            }
+            case "iOS"->{
+                setWdaLocalPort(System.getProperty("wdaLocalPort","10001"));
+                setWebkitDebugProxyPort(System.getProperty("webkitDebugProxyPort","11001"));
+
+            }
+            default -> {
+                throw new IllegalStateException("Invalid platform!");
+            }
+        }
+    }
 
 }

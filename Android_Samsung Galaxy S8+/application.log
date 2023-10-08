@@ -1,0 +1,147 @@
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:24:58.166 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:25:28.363 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:25:50.867 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:26:13.092 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:26:13.115 CapabilitiesManager:15 - Getting Capabilities
+[Android_Samsung Galaxy S8+ FATAL] 2023-10-07 19:26:14.070 DriverManager:39 - Driver is initialization Failed! Abort
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:26:14.655 Hooks:37 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:26:14.667 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:26:30.754 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:26:30.754 CapabilitiesManager:15 - Getting Capabilities
+[Android_Samsung Galaxy S8+ FATAL] 2023-10-07 19:26:30.855 DriverManager:39 - Driver is initialization Failed! Abort
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:26:31.098 Hooks:37 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:26:31.108 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:26:47.591 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:26:47.592 CapabilitiesManager:15 - Getting Capabilities
+[Android_Samsung Galaxy S8+ FATAL] 2023-10-07 19:26:47.709 DriverManager:39 - Driver is initialization Failed! Abort
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:26:47.922 Hooks:37 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:30:21.614 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:30:38.566 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:30:38.603 CapabilitiesManager:15 - Getting Capabilities
+[Android_Samsung Galaxy S8+ FATAL] 2023-10-07 19:30:39.380 DriverManager:39 - Driver is initialization Failed! Abort
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:30:40.769 MyRunnerTest:60 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:34:59.858 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:35:18.126 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:35:18.232 CapabilitiesManager:15 - Getting Capabilities
+[Android_Samsung Galaxy S8+ FATAL] 2023-10-07 19:35:19.114 DriverManager:39 - Driver is initialization Failed! Abort
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:35:20.629 MyRunnerTest:60 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:37:26.439 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:37:42.562 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:37:42.599 CapabilitiesManager:15 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:37:42.611 CapabilitiesManager:32 - Capabilities Set!
+[Android_Samsung Galaxy S8+ FATAL] 2023-10-07 19:37:43.384 DriverManager:39 - Driver is initialization Failed! Abort
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:37:44.732 MyRunnerTest:60 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:40:59.839 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:41:16.291 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:41:16.308 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:41:16.328 CapabilitiesManager:15 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:41:16.335 CapabilitiesManager:32 - Capabilities Set!
+[Android_Samsung Galaxy S8+ FATAL] 2023-10-07 19:41:17.110 DriverManager:40 - Driver is initialization Failed! Abort
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:41:18.511 MyRunnerTest:60 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:43:10.221 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:43:26.593 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:43:26.610 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:43:26.628 CapabilitiesManager:15 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:43:26.637 CapabilitiesManager:32 - Capabilities Set!
+[Android_Samsung Galaxy S8+ FATAL] 2023-10-07 19:43:27.419 DriverManager:40 - Driver is initialization Failed! Abort
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:43:28.784 MyRunnerTest:60 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:45:41.341 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:45:57.713 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:45:57.739 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:46:00.877 CapabilitiesManager:15 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:46:00.886 CapabilitiesManager:32 - Capabilities Set!
+[Android_Samsung Galaxy S8+ FATAL] 2023-10-07 19:46:01.628 DriverManager:40 - Driver is initialization Failed! Abort
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 19:46:02.991 MyRunnerTest:60 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:03:22.809 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:03:39.995 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:03:40.018 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:03:40.034 CapabilitiesManager:15 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:03:40.043 CapabilitiesManager:32 - Capabilities Set!
+[Android_Samsung Galaxy S8+ FATAL] 2023-10-07 20:03:40.796 DriverManager:36 - Driver is initialization Failed! Abort
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:03:42.207 MyRunnerTest:60 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:06:00.632 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:06:16.624 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:06:16.645 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:06:16.666 CapabilitiesManager:15 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:06:16.677 CapabilitiesManager:32 - Capabilities Set!
+[Android_Samsung Galaxy S8+ FATAL] 2023-10-07 20:06:17.436 DriverManager:36 - Driver is initialization Failed! Abort
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:06:18.822 MyRunnerTest:60 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:10:51.060 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:11:08.230 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:11:08.248 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:11:08.269 CapabilitiesManager:15 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:11:08.279 CapabilitiesManager:32 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ FATAL] 2023-10-07 20:11:09.004 DriverManager:37 - Driver is initialization Failed! Abortorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 400. Message: 'automationName' can't be blank 
+Host info: host: 'THIRUKUMARAN-LA', ip: '192.168.0.103'
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[{appium:chromeDriverPort=11000, appium:deviceName=Samsung Galaxy S8+, platformName=ANDROID, appium:systemPort=10000, appium:udid=ce10171ab374340704}], desiredCapabilities=Capabilities {chromeDriverPort: 11000, deviceName: Samsung Galaxy S8+, platformName: ANDROID, systemPort: 10000, udid: ce10171ab374340704}}]
+Capabilities {chromeDriverPort: 11000, deviceName: Samsung Galaxy S8+, platformName: ANDROID, systemPort: 10000, udid: ce10171ab374340704}
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:11:09.058 MyRunnerTest:60 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:14:47.659 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:15:04.334 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:15:04.352 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:15:04.369 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:15:04.372 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:15:04.382 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:15:04.384 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:15:04.387 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:15:04.397 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:16:08.261 MyRunnerTest:55 - Driver Quit!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:16:08.327 MyRunnerTest:60 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:34:00.619 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:34:17.096 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:34:17.112 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:34:17.132 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:34:17.134 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:34:17.135 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:34:17.137 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:34:17.139 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:34:17.147 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:35:16.663 MyRunnerTest:55 - Driver Quit!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:35:16.719 MyRunnerTest:60 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:38:12.231 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:38:27.990 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:38:28.006 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:38:28.025 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:38:28.027 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:38:28.029 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:38:28.031 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:38:28.033 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:38:28.040 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:39:09.529 MyRunnerTest:55 - Driver Quit!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:39:09.585 MyRunnerTest:60 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:45:20.709 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:45:36.804 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:45:36.820 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:45:36.838 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:45:36.840 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:45:36.841 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:45:36.843 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:45:36.844 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:45:36.851 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:46:19.962 MyRunnerTest:55 - Driver Quit!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 20:46:20.017 MyRunnerTest:60 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:41:28.081 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:41:44.759 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:41:44.782 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:41:44.801 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:41:44.803 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:41:44.804 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:41:44.807 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:41:44.808 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:41:44.815 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:42:25.893 MyRunnerTest:55 - Driver Quit!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:42:25.952 MyRunnerTest:60 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:46:07.171 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:46:23.933 ServerManager:27 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:46:23.951 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:46:23.969 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:46:23.971 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:46:23.972 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:46:23.974 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:46:23.975 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:46:23.982 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:47:06.550 MyRunnerTest:55 - Driver Quit!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-07 21:47:06.604 MyRunnerTest:60 - Appium Server Stopped!
